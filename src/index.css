@@ -1,13 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Cantarell&family=Quicksand:wght@300;400&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h1 {
+  font-family: "Berkshire Swash", cursive;
+  font-size: 10rem !important;
+  color: rgb(217, 157, 3);
+  text-shadow: 0.5px 0.5px 0.5px rgb(2, 30, 63);
+  padding-top: 1em;
+}
+
+h2 {
+  font-family: "Berkshire Swash", cursive;
+  font-size: 6rem !important;
+  color: rgb(217, 157, 3);
+  text-shadow: 0.5px 0.5px 0.5px rgb(2, 30, 63);
+}
+
+h5 {
+  padding-right: 2em;
+  text-align: end;
+  color: darkgrey;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.logo {
+  width: 20vw;
+  height: 20vh;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.navbar {
+  background-color: rgba(230, 176, 40, 0.774) !important;
+  padding: 0 !important;
+  font-size: large;
+  font-family: "Cantarell", sans-serif;
+}
+
+.lndImg {
+  margin-top: -5em !important;
+  height: 95vh;
+}
+
+.about {
+  font-family: "Cantarell", sans-serif;
+}
+
+.story {
+  padding: 2em;
+}
+
+.blog {
+  font-family: "Cantarell", sans-serif;
+}
+
+.blog p {
+  margin: 1em 0;
+  font-size: 1.25rem !important;
+}
+
+.hive {
+  font-family: "Cantarell", sans-serif;
+  padding: 2em;
+}
+
+.ggfwidget {
+  width: 140px;
+  padding-left: 2em;
+}
+
+.iframe {
+  width: 100%;
+  height: 310px;
+  border: none;
+}
+
+.wdgtCol {
+  margin: 0 auto;
+}
+
+.verticalWidgt {
+  width: 40vw !important;
+  margin: 0 auto !important;
+}
+
+.verticalWdgtFr {
+  margin: 0 auto !important;
+  width: 100%;
+  height: 460px;
+  border: none;
 }
