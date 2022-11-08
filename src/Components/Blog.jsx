@@ -25,6 +25,171 @@ const Blog = () => {
             </div>
           </Col>
           <Col className="col-10 p-3 story">
+            <h2>Apitherapy: Taking The Sting…Well, Out Of The Sting</h2>
+            <h5>
+              <em>9 November 2022</em>
+            </h5>
+            <div className="px-5">
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Blomme} />
+                <Figure.Caption>
+                  A close up of the garden at Bakovensfontein
+                </Figure.Caption>
+              </Figure>
+              <p>
+                If you don’t know about the miraculous benefits of bee products,
+                then how are you alive right now? For over a decade, the media
+                (especially the cosmetic, mindfulness, wellness and homoeopathic
+                industries) has been in full flight with buzz-words and -phrases
+                like “Royal Jelly”, “Beeswax” and “Organic Honey”. Fair enough,
+                these are just basic, everyday words, but the way it has been
+                over-popularised leaves one to wonder if these are simply fly
+                by, snake oil products or if it is actually its honey’s worth.
+                One would assume that the buzz would subside as new and
+                seemingly more lucrative products (case and point, CBD) break
+                into the market, and also because the public generally grows
+                tired over cliched marketing campaigns. Afterall, honey in
+                excess is no longer sweet. This, however, is not the case with
+                bee products. Apitherapy (*the use of bee products for medicinal
+                purposes) has only just begun to take flight in the modern world
+                and the real stinger is that this form of medicine has been
+                around for over 4000 years, and effectively so.
+              </p>
+              <p>
+                A prescription written on a clay tablet, dating between 2100 -
+                2000 BC, found in the Euphrates river, is our earliest evidence
+                of honey being used as medicine. Not surprising as ancient
+                Religious texts from almost every great religion practised today
+                mentions apitherapy, with great acclamation, not only in a
+                poetic and literary sense, but with specific reference to its
+                healing properties. Hippocrates (c. 460 - c. 370 BC), the Greek
+                physician who is famously known as the ‘father of medicine’
+                noted the following properties in his research, “It causes heat,
+                cleans sores and ulcers, softens hard ulcers of the lips, and
+                heals carbuncles and running sores”. The ancient Egyptians have
+                documented their use of apitherapy very diligently, providing
+                evidence of the long standing traditions for the use of bee
+                products as medicine. One such remedy is a mixture of honey and
+                fat, used to drain pus from a wound. For birthcontrol, they
+                crushed acacia and dates, mixed it with honey, then used
+                vegetable fibre to insert it into the ‘flesh’ (DO NOT TRY THIS
+                AT HOME).
+              </p>
+              <p>
+                A more attractive remedy, perhaps not as medicinal, is the one
+                they used to “beautify” the skin. Quite a simple remedy,
+                although not sure just how effective this is. Use 1 part
+                powdered alabaster, 1 part powdered natron (a mineral that has
+                been used for cleaning, among many other things, since
+                antiquity), 1 part honey, mix this into a paste and smear the
+                mixture on the skin. In all honesty, it does sound kind of
+                promising as a natural DIY beauty product. We will let the
+                content creators try and test this one on our behalf but this
+                one you can definitely try at home. Countless other remedies
+                have been documented by the ancient Egyptians, most not very
+                pleasant sounding, and honey and beeswax played a very prominent
+                role in the mummification process in particular. Then there are
+                the semetic religions that have a great affinity to bees and
+                their products and we even have records in traditional Chinese,
+                Korean and Russian texts.
+              </p>
+
+              <p>
+                While many of us are aware of the amazing properties that honey
+                and beeswax have, a much less popular, very beneficial bee
+                product that has also been in use since antiquity, is bee venom.
+                Don’t worry, I was just as shocked to learn this, and even more
+                so to learn that it is still being practised today - with mixed
+                results, understandably. One ancient text suggests that the
+                potential of bee venom as a treatment came about when
+                traditional healers noticed there is an entire infirmary of
+                ailments and disorders that beekeepers simply do not suffer
+                from. Bee sting acupuncture is one of these treatments that
+                humanity has carried along over the centuries. The bee is made
+                to sting the recipient of the treatment, don’t ask me how, on
+                special acupressure points to treat, among other things,
+                osteoarthritis, rheumatoid arthritis, multiple sclerosis, even
+                Parkinson disease and, logically, many other ailments related to
+                nerve pain. What is quite surprising is that it has amazing
+                anti-inflammatory properties, and that it is used to treat
+                (cure) bee venom allergies when administered in small doses. It
+                is worth noting that although many of these treatments have been
+                in practice for thousands of years, it is wise to have them done
+                by a professional.
+              </p>
+              <p>
+                Modern science has now been able to analyse the venom and the
+                research has delivered some really promising results. A single
+                drop of bee venom is made up of mostly water (88%) with only 0.1
+                µg of dry venom. This is a very complex mixture of peptides,
+                enzymes, bioactive amines such as histamine and epinephrine, and
+                minerals. The peptides include melittin (the main component),
+                adolapin, apamin and MCD-peptide. The most important enzyme is
+                PLA2 and the rest of the compounds are of very low molecular
+                weight.
+              </p>
+              <p>
+                Melittin has proven to possess hemolytic (basically rupturing
+                red blood cells, I had to Google this), anti-microbial,
+                anti-fungal, and antitumor activities. Recent research has also
+                shown that it is effective in causing neuro plastic changes in
+                pain-signalling pathways. It does this by activating and
+                sensitising nociceptor cells. Nociceptor cells react to stimuli
+                that are damaging, or potentially damaging, by sending signals
+                to the spinal cord (I had to Google this one too). Then,
+                melittin is also an activator for PLA2, another major player in
+                the healing properties of bee venom, that produces
+                anti-nociceptive, anti-inflammatory, and anti-arthritic effects.
+              </p>
+              <p>
+                The cosmetic industry has also been using bee venom in serums,
+                face creams and a myriad of other products. The fact that it is
+                antibacterial, anti-fungal, anti-inflammatory and 100% natural
+                makes it the perfect candidate for skincare. In some studies it
+                has also proven to provide anti wrinkle effects which, as we all
+                know, is an extremely lucrative agent in the beauty business. A
+                twelve week study was done where women had to apply a serum
+                containing bee venom. It showed a remarkable reduction in
+                wrinkle depth as well total wrinkle count. There was another
+                study, this time only six weeks, done with purified bee venom.
+                In this study, 77% of participants showed an improvement in acne
+                by applying the serum twice daily. Not bad for something that is
+                feared and dreaded by a majority of the global population.
+              </p>
+              <p>
+                I should probably have led this article with the beauty benefits
+                of bee venom, great for click bait, but as with most great
+                stories that end with happily ever after, it was only natural
+                for this one to start with a long-long time ago. The story of
+                apitherapy is by no measure anywhere near its end but I believe
+                it is safe to say that we are already a long way into the
+                happily ever after, and I for one can’t wait to see which other
+                magical properties modern day science will testify to. For now,
+                we get to run in fear from the bee sting while enjoying the pure
+                joy of honey and beeswax in our daily lives.
+              </p>
+              <p>
+                <strong>"A Bee is an exquisite Chymist" [chemist] </strong>
+                <em>~ Royal Beekeeper to Charles II</em>
+              </p>
+
+              <p>
+                <em>
+                  * At Bakovensfontein, we strive to provide sustainable food
+                  sources with a strong focus on how our products can add to a
+                  cleaner, greener future. Our Bee Project is one such
+                  initiative. Our main goal is to deliver top tier honey and
+                  beeswax products, and assisting local farmers with
+                  pollination, while saving the local bee population from
+                  extermination.
+                </em>
+              </p>
+            </div>
+          </Col>
+        </Row>
+
+        <Row>
+          <Col className="col-10 p-3 story">
             <h2>A Buzz about the Garden</h2>
             <h5>
               <em>9 October 2022</em>
@@ -156,6 +321,16 @@ const Blog = () => {
                   extermination.
                 </em>
               </p>
+            </div>
+          </Col>
+          <Col className="col-2 mt-5">
+            <div className="ggfwidget">
+              <iframe
+                className="iframe"
+                title="gogetfunding"
+                src="https://gogetfunding.com/embed-widget2?campaignid=7666428&frame_type=t3"
+                scrolling="no"
+              ></iframe>
             </div>
           </Col>
         </Row>
