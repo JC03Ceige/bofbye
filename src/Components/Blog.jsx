@@ -30,12 +30,12 @@ const Blog = () => {
               <em>9 November 2022</em>
             </h5>
             <div className="px-5">
-              <Figure>
+              {/* <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Blomme} />
                 <Figure.Caption>
                   A close up of the garden at Bakovensfontein
                 </Figure.Caption>
-              </Figure>
+              </Figure> */}
               <p>
                 If you don’t know about the miraculous benefits of bee products,
                 then how are you alive right now? For over a decade, the media
