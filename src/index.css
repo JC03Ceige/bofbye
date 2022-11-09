@@ -26,7 +26,7 @@ h1 {
 
 h2 {
   font-family: "Jost", sans-serif;
-  font-weight: 100;
+  font-weight: lighter;
   font-size: 6rem !important;
   color: rgb(217, 157, 3);
   text-shadow: 0.5px 0.5px 0.5px rgb(2, 30, 63);
