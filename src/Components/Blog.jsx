@@ -12,7 +12,7 @@ const Blog = () => {
   return (
     <div className="blog" id="blog">
       <Container fluid>
-        <h1>The Latest Buzz</h1>
+        <h1 className="font-weight-light">The Latest Buzz</h1>
         <Row>
           <Col className="col-2 mt-5">
             <div className="ggfwidget">
