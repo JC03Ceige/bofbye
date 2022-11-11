@@ -6,6 +6,11 @@ import Row from "react-bootstrap/Row";
 import Image from "react-bootstrap/Image";
 
 import Blomme from "../Assets/Images/blomme.JPG";
+import Chinese from "../Assets/Images/apt_chnbk";
+import Egpt_BK from "../Assets/Images/apt_egyptbkpr";
+import Rock_Art from "../Assets/Images/apt_rckart";
+import Greek from "../Assets/Images/apt_anctgrk";
+import Tablet from "../Assets/Images/apt_bktblt";
 import { Figure } from "react-bootstrap";
 
 const Blog = () => {
@@ -30,12 +35,12 @@ const Blog = () => {
               <em>9 November 2022</em>
             </h5>
             <div className="px-5">
-              {/* <Figure>
-                <Figure.Image className="m-3 rounded" fluid src={Blomme} />
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Rock_Art} />
                 <Figure.Caption>
                   A close up of the garden at Bakovensfontein
                 </Figure.Caption>
-              </Figure> */}
+              </Figure>
               <p>
                 If you don’t know about the miraculous benefits of bee products,
                 then how are you alive right now? For over a decade, the media
@@ -75,6 +80,12 @@ const Blog = () => {
                 vegetable fibre to insert it into the ‘flesh’ (DO NOT TRY THIS
                 AT HOME).
               </p>
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Egpt_BK} />
+                <Figure.Caption>
+                  A close up of the garden at Bakovensfontein
+                </Figure.Caption>
+              </Figure>
               <p>
                 A more attractive remedy, perhaps not as medicinal, is the one
                 they used to “beautify” the skin. Quite a simple remedy,
@@ -93,6 +104,10 @@ const Blog = () => {
                 their products and we even have records in traditional Chinese,
                 Korean and Russian texts.
               </p>
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Chinese} />
+                <Figure.Caption></Figure.Caption>
+              </Figure>
 
               <p>
                 While many of us are aware of the amazing properties that honey
@@ -156,6 +171,10 @@ const Blog = () => {
                 by applying the serum twice daily. Not bad for something that is
                 feared and dreaded by a majority of the global population.
               </p>
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Greek} />
+                <Figure.Caption></Figure.Caption>
+              </Figure>
               <p>
                 I should probably have led this article with the beauty benefits
                 of bee venom, great for click bait, but as with most great
@@ -172,7 +191,12 @@ const Blog = () => {
                 <strong>"A Bee is an exquisite Chymist" [chemist] </strong>
                 <em>~ Royal Beekeeper to Charles II</em>
               </p>
-
+              <Figure>
+                <Figure.Image className="m-3 rounded" fluid src={Tablet} />
+                <Figure.Caption>
+                  A close up of the garden at Bakovensfontein
+                </Figure.Caption>
+              </Figure>
               <p>
                 <em>
                   * At Bakovensfontein, we strive to provide sustainable food
