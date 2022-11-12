@@ -6,7 +6,6 @@ import Row from "react-bootstrap/Row";
 import Image from "react-bootstrap/Image";
 
 import Blomme from "../Assets/Images/blomme.JPG";
-import Chinese from "../Assets/Images/apt_chnbk";
 import Egpt_BK from "../Assets/Images/apt_egyptbkpr";
 import Rock_Art from "../Assets/Images/apt_rckart";
 import Greek from "../Assets/Images/apt_anctgrk";
@@ -38,7 +37,7 @@ const Blog = () => {
               <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Rock_Art} />
                 <Figure.Caption>
-                  A close up of the garden at Bakovensfontein
+                  Rock art depicting prehistoric beekeeping
                 </Figure.Caption>
               </Figure>
               <p>
@@ -83,7 +82,13 @@ const Blog = () => {
               <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Egpt_BK} />
                 <Figure.Caption>
-                  A close up of the garden at Bakovensfontein
+                  Beekeeping shown in the tomb of{" "}
+                  <a
+                    href="https://en.wikipedia.org/wiki/Pabasa"
+                    target="_blank"
+                  >
+                    Pabasa
+                  </a>
                 </Figure.Caption>
               </Figure>
               <p>
@@ -104,10 +109,6 @@ const Blog = () => {
                 their products and we even have records in traditional Chinese,
                 Korean and Russian texts.
               </p>
-              <Figure>
-                <Figure.Image className="m-3 rounded" fluid src={Chinese} />
-                <Figure.Caption></Figure.Caption>
-              </Figure>
 
               <p>
                 While many of us are aware of the amazing properties that honey
@@ -173,7 +174,18 @@ const Blog = () => {
               </p>
               <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Greek} />
-                <Figure.Caption></Figure.Caption>
+                <Figure.Caption>
+                  According to Greek mythology, Melisseus was the demi-god of
+                  honey and the art of beekeeping. The ancient Greeks believed
+                  that amber-coloured honey-sap (melissa) was star-fall which
+                  the bees collected from flowers and trees.
+                  <a
+                    href="https://twitter.com/BQ_Mag/status/1496406266721280000"
+                    target="_blank"
+                  >
+                    @BQ Magazine
+                  </a>
+                </Figure.Caption>
               </Figure>
               <p>
                 I should probably have led this article with the beauty benefits
@@ -194,7 +206,7 @@ const Blog = () => {
               <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Tablet} />
                 <Figure.Caption>
-                  A close up of the garden at Bakovensfontein
+                  A clay tablet from ancient Egypt, depicting a bee.
                 </Figure.Caption>
               </Figure>
               <p>
