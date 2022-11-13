@@ -42,6 +42,7 @@ p {
   font-family: "Quicksand", sans-serif;
   font-weight: 400;
   font-size: 1rem;
+  text-align: justify;
 }
 
 .logo {
