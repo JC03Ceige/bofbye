@@ -206,7 +206,7 @@ const Blog = () => {
               <Figure>
                 <Figure.Image className="m-3 rounded" fluid src={Tablet} />
                 <Figure.Caption>
-                  A clay tablet from ancient Egypt, depicting a bee.
+                  A clay tablet from ancient Egypt.
                 </Figure.Caption>
               </Figure>
               <p>
