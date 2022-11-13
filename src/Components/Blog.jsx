@@ -6,7 +6,7 @@ import Row from "react-bootstrap/Row";
 import Image from "react-bootstrap/Image";
 
 import Blomme from "../Assets/Images/blomme.JPG";
-import Egpt_BK from "../Assets/Images/apt_egyptbkpr";
+import Egpt_BK from "../Assets/Images/apt_egyptbkpr.jpg";
 import Rock_Art from "../Assets/Images/apt_rckart";
 import Greek from "../Assets/Images/apt_anctgrk";
 import Tablet from "../Assets/Images/apt_bktblt";
